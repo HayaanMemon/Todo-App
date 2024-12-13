@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(1, 48, 48);
+}
+
+.Container{
+    width: 300px;
+    background-color: #fff;
+    padding: 30px;
+    margin-left: 35%;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.input{
+    width: 300px;
+    padding: 8px;
+
+}
+
+button{
+      
+    width: 60px;
+    color: #fff;
+    margin-top: 10px;
+
+    background-color: black;
+}
+
+.text ul{
+     position: relative;
+     background-color: green;
+     color: #fff;
+     padding: 7px;
+     font-size: 10px;
+     text-align: left;
+}
+
+.text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
